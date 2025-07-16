@@ -1,65 +1,96 @@
-<h1 align="center">Hi 👋, I'm Nusrat Jahan Raisa</h1>
+<h1 align="center">Hey , I'm Nusrat Jahan Raisa</h1>
 
 <p align="center">
-  🌱 Software Engineering Student | 💻 Web Developer in Progress | 🤖 Exploring AI & ML
+  🌱 Software Engineering Student | 💻 Full Stack Developer in Progress | 🤖 Exploring AI & ML
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NusratJahanRaisa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ### ✨ About Me
 
-Hey! I’m Nusrat Jahan Raisa, a 3rd-year Software Engineering student at Daffodil International University (DIU).  
+Hey! I’m Nusrat Jahan Raisa, a 3rd-year Software Engineering student at DIU, Bangladesh.  
 I love turning ideas into simple, working solutions — from backend CRUD servers with Node.js & Express to React frontends.
 
-Right now, I’m growing my skills in:
-- 🔹 Web development (React, Express, MongoDB)
-- 🔹 Problem-solving & coding best practices
-- 🔹 Starting my journey into AI & ML step by step
+Right now, I’m focused on:
+- 🔹 Building practical CRUD apps with React, Express & MongoDB
+- 🔹 Strengthening my problem-solving & clean code skills
+- 🔹 Starting my journey into AI & ML, step by step
 
-My goal is to build a solid foundation as a developer — and eventually create real-world applications that make people’s lives easier.
+My dream is to build useful, real-world projects — and one day study abroad for my Master’s in AI! 🌍✨
 
 ---
 
 ### 🚀 What I’m Doing Now
 
-- 🎓 Focusing on my coursework & self-learning projects
-- ⚡️ Building small CRUD projects to sharpen my full stack skills
-- 📚 Preparing for internships & future job opportunities
-- 🌍 Dreaming to study abroad for my Master’s in AI someday!
+- 🎓 Studying full stack web dev
+- ⚡️ Practicing backend + frontend CRUD projects
+- 🌐 Learning how to deploy my apps
+- 📚 Exploring beginner AI projects
 
 ---
 
-### 🛠️ Languages & Tools I’m Using
+### 📌 Current Focus
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
+- [x] Complete my first full-stack CRUD app (done!)
+- [x] Connect frontend with backend using Express & MongoDB
+- [ ] Learn React Router properly
+- [ ] Deploy a project on Netlify or Vercel
+- [ ] Build a simple ML notebook project
+
+---
+
+### 🛠️ My Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,express,mongodb,html,css,python&perline=8" alt="Tech Stack" />
 </p>
 
 ---
 
 ### 📈 GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NusratJahanRaisa&show_icons=true&theme=transparent" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NusratJahanRaisa&theme=transparent" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NusratJahanRaisa&layout=compact" alt="Top Languages"/>
+</p>
+
+---
+
+### 🏙️ My Contribution Skyline
+
+<!-- Replace the link below with your uploaded skyline gif link -->
+<p align="center">
+  <img src="https://github.com/NusratJahanRaisa/NusratJahanRaisa/blob/main/skyline.gif" alt="GitHub Skyline 2025" />
+</p>
+
+---
+
+### 🌟 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
 </p>
 
 ---
 
 ### 🌐 Connect With Me
 
-Feel free to connect or say hi!
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:jahanthinks@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-*Thanks for visiting — I’m still learning, building & growing every day!* 🌱✨
+*Learning & building, one line at a time.* 🌱✨
