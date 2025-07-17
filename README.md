@@ -1,7 +1,7 @@
 <h1 align="center">Hey , I'm Nusrat Jahan Raisa</h1>
 
 <p align="center">
-  🌱 Software Engineering Student | 💻 Full Stack Developer in Progress | 🤖 Exploring AI & ML
+   Software Engineering Student | 💻 Full Stack Developer in Progress | 🤖 Exploring AI & ML
 </p>
 
 
@@ -64,12 +64,7 @@ My dream is to build useful, real-world projects — and one day study abroad fo
 
 ---
 
-### 🏙️ My Contribution Skyline
 
-<!-- Replace the link below with your uploaded skyline gif link -->
-<p align="center">
-  <img src="https://github.com/NusratJahanRaisa/NusratJahanRaisa/blob/main/skyline.gif" alt="GitHub Skyline 2025" />
-</p>
 
 ---
 
