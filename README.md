@@ -1,7 +1,7 @@
 <h1 align="center">Hey , I'm Nusrat Jahan Raisa</h1>
 
 <p align="center">
-   Software Engineering Student | 💻 Full Stack Developer in Progress | 🤖 Exploring AI & ML
+   Software Engineering Student | Problem Solver |  Full Stack Developer in Progress |  Exploring AI & ML
 </p>
 
 
@@ -34,8 +34,8 @@ My dream is to build useful, real-world projects — and one day study abroad fo
 
 - [x] Complete my first full-stack CRUD app (done!)
 - [x] Connect frontend with backend using Express & MongoDB
-- [ ] Learn React Router properly
-- [ ] Deploy a project on Netlify or Vercel
+- [x] Learn React Router properly
+- [x] Deploy a project on Netlify or Vercel
 - [ ] Build a simple ML notebook project
 
 ---
