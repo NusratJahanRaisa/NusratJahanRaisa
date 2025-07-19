@@ -85,4 +85,4 @@ My dream is to build useful, real-world projects — and one day study abroad fo
 
 ---
 
-*Learning & building, one line at a time.* 🌱✨
+*Learning & building, one line at a time.* 
