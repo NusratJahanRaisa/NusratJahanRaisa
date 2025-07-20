@@ -17,7 +17,7 @@ Right now, I’m focused on:
 - 🔹 Strengthening my problem-solving & clean code skills
 - 🔹 Starting my journey into AI & ML, step by step
 
-My dream is to build useful, real-world projects — and one day study abroad for my Master’s in AI! 🌍✨
+My dream is to build useful, real-world projects — and one day study abroad for my Master’s in AI! 🌍 🚀 
 
 ---
 
