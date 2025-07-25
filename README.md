@@ -1,7 +1,7 @@
 <h1 align="center">Hey , I'm Nusrat Jahan Raisa</h1>
 
 <p align="center">
-   Software Engineering Student | Problem Solver |  Full Stack Developer in Progress |  Exploring AI & ML
+   Software Engineering Student | Problem Solver |  MERN Stack Developer |  Exploring AI & ML
 </p>
 
 
