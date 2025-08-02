@@ -1,9 +1,8 @@
-<h1 align="center">Hey , I'm Nusrat Jahan Raisa</h1>
+<h1 align="center">Hey 👋, I'm Nusrat Jahan Raisa</h1>
 
 <p align="center">
-   Software Engineering Student | Problem Solver |  MERN Stack Developer |  Exploring AI & ML
+   Software Engineering Student | Problem Solver | Competitive Programmer | MERN Stack Developer | Exploring AI & ML 
 </p>
-
 
 ---
 
@@ -16,8 +15,9 @@ Right now, I’m focused on:
 - 🔹 Building practical CRUD apps with React, Express & MongoDB
 - 🔹 Strengthening my problem-solving & clean code skills
 - 🔹 Starting my journey into AI & ML, step by step
+- 🔹 Improving my CP skills on **Codeforces** and beyond
 
-My dream is to build useful, real-world projects — and one day study abroad for my Master’s in AI! 🌍 🚀 
+My dream is to build useful, real-world projects — and one day study abroad for my Master’s in AI! 🌍🚀
 
 ---
 
@@ -26,25 +26,37 @@ My dream is to build useful, real-world projects — and one day study abroad fo
 - 🎓 Studying full stack web dev
 - ⚡️ Practicing backend + frontend CRUD projects
 - 🌐 Learning how to deploy my apps
-- 📚 Exploring beginner AI projects
+- 📚 Exploring beginner AI notebooks
+- 🧩 Solving DSA & algorithm problems in C/C++
 
 ---
 
 ### 📌 Current Focus
 
-- [x] Complete my first full-stack CRUD app (done!)
+- [x] Complete my first full-stack CRUD app
 - [x] Connect frontend with backend using Express & MongoDB
 - [x] Learn React Router properly
 - [x] Deploy a project on Netlify or Vercel
 - [ ] Build a simple ML notebook project
+- [ ] Solve 200+ problems on Codeforces 🏆
 
 ---
 
 ### 🛠️ My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,express,mongodb,html,css,python&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,express,mongodb,html,css,python,c,cpp&perline=8" alt="Tech Stack" />
 </p>
+
+---
+
+### ⚙️ Tools & Workflows I Use
+
+- 💻 VS Code, Git & GitHub for version control
+- 📌 Postman for API testing
+- 🚀 Netlify / Vercel for deployment
+- ⚡️ Codeforces, LeetCode for CP
+- 🧠 Notion & Trello for planning
 
 ---
 
@@ -64,11 +76,7 @@ My dream is to build useful, real-world projects — and one day study abroad fo
 
 ---
 
-
-
----
-
-### 🌟 Random Dev Quote
+### 💡 A Quote for You
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
@@ -85,4 +93,10 @@ My dream is to build useful, real-world projects — and one day study abroad fo
 
 ---
 
-*Learning & building, one line at a time.* 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NusratJahanRaisa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+*Learning & building, one line at a time.* 🚀✨
